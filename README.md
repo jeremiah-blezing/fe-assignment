@@ -29,3 +29,7 @@
 
 - Should be server side paginated (Both Number of Rows Per page and Page index )
 - Should be server side sorted
+
+# Figma Link
+
+https://www.figma.com/file/O7m4YzZEeScwJOblFMphgR/FE-Assignment---Issue-Tracker?node-id=1-3&t=PyIOcykRFltJgQf8-4
